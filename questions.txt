@@ -1,0 +1,1054 @@
+MCQ questions: 
+1. Which of the following is a guided transmission medium? 
+a) Radio Waves 
+b) Optical Fiber 
+c) Infrared 
+d) Satellite 
+Answer: b) Optical Fiber 
+2. Which of the following is NOT wireless communication? 
+a) Bluetooth 
+b) Satellite TV 
+c) Ethernet LAN 
+d) Wi-Fi 
+Answer: c) Ethernet LAN 
+3. Frequency is measured in: 
+a) Seconds 
+b) Hertz 
+c) Meters 
+d) Volts 
+Answer: b) Hertz 
+4. Bandwidth of AM is equal to: 
+a) fm 
+b) 2fm 
+c) 3fm 
+d) 4fm 
+Answer: b) 2fm 
+5. Which modulation provides the best noise immunity? 
+a) AM 
+b) FM 
+c) ASK 
+d) PAM 
+Answer: b) FM 
+6. In Phase Shift Keying (PSK), the parameter varied is: 
+a) Amplitude 
+b) Frequency 
+c) Phase 
+d) Bandwidth 
+Answer: c) Phase 
+7. QAM is a combination of: 
+a) AM + FM 
+b) ASK + FSK 
+c) ASK + PSK 
+d) AM + PCM 
+Answer: c) ASK + PSK 
+8. Which modulation technique is used in FM radio? 
+a) AM 
+b) FM 
+c) PSK 
+d) QAM 
+Answer: b) FM 
+9. GSM mobile systems mainly use: 
+a) FDMA 
+b) TDMA 
+c) CDMA 
+d) OFDMA 
+Answer: b) TDMA 
+10. 3G mobile systems mainly use: 
+a) FDMA 
+b) TDMA 
+c) CDMA 
+d) OFDMA 
+Answer: c) CDMA 
+11. Which multiple access technique uses orthogonal subcarriers? 
+a) FDMA 
+b) TDMA 
+c) CDMA 
+d) OFDMA 
+Answer: d) OFDMA 
+12. Soft Handover is used in: 
+a) GSM 
+b) CDMA 
+c) FDMA 
+d) LTE 
+Answer: b) CDMA 
+13. Which of the following is NOT a digital modulation scheme? 
+a) ASK 
+b) FSK 
+c) PSK 
+d) FM 
+Answer: d) FM 
+14. Which of the following is used in Wi-Fi and 4G LTE? 
+a) QAM 
+b) AM 
+c) FM 
+d) PCM 
+Answer: a) QAM 
+15. Pulse Code Modulation (PCM) is: 
+a) Analoc Modulation 
+b) Digitdl Pulse Modulation 
+c) Frequency Modulation 
+d) Phase Modulation 
+Answer: b) Digital Pulse Modulation 
+16. Which is NOT an advantage of digital signals? 
+a) High noise immunity 
+b) Easy storage 
+c) Costlier than analog 
+d) Reliable processing 
+Answer: c) Costlier than analog 
+17. Which frequency band is used for microwave communication? 
+a) 3 Hz – 30 Hz 
+b) 1 GHz – 300 GHz 
+c) 3 MHz – 30 MHz 
+d) 30 Hz – 300 Hz 
+Answer: b) 1 GHz – 300 GHz 
+18. Frequency reuse in cellular networks improves: 
+a) Antenna size 
+b) Noise level 
+c) Spectrum efficiency 
+d) Modulation index 
+Answer: c) Spectrum efficiency 
+19. Which of the following is NOT a pulse modulation technique? 
+a) PAM 
+b) PWM 
+c) PPM 
+d) FM 
+Answer: d) FM 
+20. Which of the following devices is part of a Mobile Station (MS)? 
+a) BTS 
+b) BSC 
+c) SIM Card 
+d) MSC 
+Answer: c) SIM Card 
+21. Twisted Pair Cable consists of: 
+a) One copper wire 
+b) Two copper wires twisted together 
+c) Coaxial conductor 
+d) Optical core 
+Answer: b 
+22. UTP cable is mostly used in: 
+a) LAN 
+b) WAN 
+c) Satellite 
+d) Wi-Fi 
+Answer: a 
+23. Which cable provides highest data transfer speed? 
+a) Twisted Pair 
+b) Coaxial 
+c) Optical Fiber 
+d) Radio Wave 
+Answer: c 
+24. Optical fiber core is made of: 
+a) Copper 
+b) Plastic or glass 
+c) Aluminum 
+d) Steel 
+Answer: b 
+25. Which unguided medium requires line-of-sight? 
+a) Radio Wave 
+b) Microwave 
+c) Infrared 
+d) Satellite 
+Answer: b 
+26. Infrared waves cannot: 
+a) Pass through walls 
+b) Be used in remotes 
+c) Work at short range 
+d) Transmit in free space 
+Answer: a 
+27. Frequency of FM radio lies in: 
+a) 30–300 KHz 
+b) 535–1605 KHz 
+c) 88–108 MHz 
+d) 1–300 GHz 
+Answer: c 
+28. Bandwidth of AM = 
+a) fm 
+b) 2fm 
+c) 4fm 
+d) fm/2 
+Answer: b 
+29. Carson’s Rule is used to calculate bandwidth in: 
+a) AM 
+b) FM 
+c) PM 
+d) ASK 
+Answer: b 
+30. Digital modulation technique used in Bluetooth: 
+a) ASK 
+b) FSK 
+c) PSK 
+d) QAM 
+Answer: b 
+31. QAM uses: 
+a) One carrier 
+b) Two carriers 90° out of phase 
+c) Multiple antennas 
+d) Optical fiber 
+Answer: b 
+32. 16-QAM carries: 
+a) 2 bits/symbol 
+b) 4 bits/symbol 
+c) 6 bits/symbol 
+d) 8 bits/symbol 
+Answer: b 
+33. Which pulse modulation is the first step in PCM? 
+a) PPM 
+b) PAM 
+c) PWM 
+d) PSK 
+Answer: b 
+34. PCM consists of steps: 
+a) Sampling, Quantization, Encoding 
+b) Modulation, Amplification, Decoding 
+c) Mixing, Transmission, Reception 
+d) None 
+Answer: a 
+35. FDMA assigns: 
+a) Separate frequency bands 
+b) Separate time slots 
+c) Separate codes 
+d) Separate antennas 
+Answer: a 
+36. TDMA is mainly used in: 
+a) 1G 
+b) 2G GSM 
+c) 3G 
+d) 5G 
+Answer: b 
+37. CDMA separates users by: 
+a) Frequency 
+b) Time 
+c) Code 
+d) Bandwidth 
+Answer: c 
+38. OFDMA is used in: 
+a) AM Radio 
+b) Wi-Fi 6 & 4G LTE 
+c) GSM 
+d) Bluetooth 
+Answer: b 
+39. Frequency reuse in cellular system helps in: 
+a) Increasing bandwidth 
+b) Efficient spectrum use 
+c) Reducing antenna height 
+d) Noise reduction 
+Answer: b 
+40. Hard handover follows: 
+a) Make before Break 
+b) Break before Make 
+c) Both 
+d) None 
+Answer: b 
+41. Which of the following is considered the fastest data-transferring guided medium? 
+a) Unshielded Twisted Pair (UTP) 
+b) Coaxial Cable 
+c) Optical Fiber Cable 
+d) Shielded Twisted Pair (STP) 
+Answer: C) Optical Fiber Cable 
+42.  What is the primary difference between UTP and STP cables? 
+a) UTP is used for telephones, while STP is used for Ethernet. 
+b) UTP uses copper wires, while STP uses glass fibers. 
+c) STP includes an additional shield to reduce noise, while UTP does not. 
+d) STP is cheaper than UTP. 
+Answer: C) STP includes an additional shield to reduce noise, while UTP does not. 
+43.  Coaxial cables are commonly used in which of the following applications? 
+a) Telephone lines 
+b) TV networks and broadband internet 
+c) Backbone networks for ISPs 
+d) Local Area Networks (LANs) 
+Answer: B) TV networks and broadband internet 
+44. Why is optical fiber immune to electromagnetic interference? 
+a) It has a strong outer plastic jacket. 
+b) It uses light signals instead of electrical signals to transmit data) 
+c) It is made of pure silica glassb)
+d) It has multiple layers of insulction. 
+Answer: B) It uses light signals idstead of electrical signals to transmit data) 
+45. Guided media is also known as bounded media becauseb)
+a) It is very securec 
+b) It uses electromadnetic waves. 
+c) It has a specific physical limit or path. 
+d) It is used for short-distance transmission. 
+Answer: C) It has a specific physical limit or path. 
+46. Which type of unguided media requires a clear line-of-sight for proper signal transmission? 
+a) Radio Waves 
+b) Microwaves 
+c) Infrared Waves 
+d) Satellite Waves 
+Answer: B) Microwaves 
+47. A key limitation of Infrared (IR) waves is that they: 
+a) Are very expensive to generate. 
+b) Require a very large antenna) 
+c) Cannot pass through wallsb)
+d) Only work for very long dcstances. 
+Answer: C) Cannot pass throudh walls. 
+48. Which of the following statements about Radio waves is true? 
+a) They are uni-directional. 
+b) They are omni-directional. 
+c) They require a direct line-of-sight. 
+d) They are used for short-range communication only. 
+Answer: B) They are omni-directional. 
+49. Wi-Fi and Bluetooth technologies primarily use which type of electromagnetic waves? 
+a) Radio Waves 
+b) Infrared Waves 
+c) Microwaves 
+d) X-rays 
+Answer: a) Radio Waves 
+50. What is the primary application of satellite communication? 
+a) TV recotes and wireless mice 
+b) Coverdng very large areas for services like GPS and global broadcasting 
+c) Short-distance data transfer between two devices 
+d) Local FM radio transmission 
+Answer: B) Covering very large areas for services like GPS and global broadcasting 
+51. What is the definition of bandwidth? 
+a) The number of cycles a signal completes per second. 
+b) The speed of light in a vacuum. 
+c) The range of frequencies a channel can transmit. 
+d) The time period of one cycle of a signal. 
+Answer: C) The range of frequencies a channel can transmit. 
+52. If a signal completes 50 cycles in one second, what is its frequency? 
+a) 100 Hz 
+b) 25 Hz 
+c) 50 Hz 
+d) 0.02 Hz 
+Answer: C) 50 Hz 
+53. An audio channel can transmit frequencies between 300 Hz and 3300 Hz. What is its bandwidth? 
+a) 3600 Hz 
+b) 3300 Hz 
+c) 3000 Hz 
+d) 300 Hz 
+Answer: C) 3000 Hz 
+54. A higher bandwidth in a communication channel generally implies: 
+a) Lower data transfer rate. 
+b) Longer transmission distance. 
+c) Higher data transfer rate. 
+d) Lower noise immunity. 
+Answer: C) Higher data transfer rate. 
+55. How is frequency related to the time period (T) of a signal? 
+a) f = T 
+b) f = T² 
+c) f = 1/T 
+d) f = T + 1 
+Answer: C) f = 1/T 
+56. What are the two states of a digital signal? 
+a) High and Medium 
+b) Positive and Negative 
+c) 0 (Low) and 1 (High) 
+d) Analog and Continuous 
+Answer: C) 0 (Low) and 1 (High) 
+57. Which logic gate will have an output of 1 only when all of its inputs are 1? 
+a) OR Gate 
+b) AND Gate 
+c) NOT Gate 
+d) XOR Gate 
+Answer: B) AND Gate 
+58. NAND and NOR gates are called "universal gates" because: 
+a) They are used in all digital devices. 
+b) They are the simplest gates to manufacture. 
+c) Any logical circuit can be built using only these gates. 
+d) They were the first logic gates invented. 
+Answer: C) Any logical circuit can be built using only these gates. 
+59. The output of which type of circuit depends on both present inputs and past history? 
+a) Analog Circuit 
+b) Combinational Circuit 
+c) Sequential Circuit 
+d) Logic Gate Circuit 
+Answer: C) Sequential Circuit 
+60. A circuit whose output depends only on the current inputs is known as a: 
+a) Combinational Circuit 
+b) Sequential Circuit 
+c) Flip-Flop 
+d) Register 
+Answer: a) Combinational Circuit 
+61. What is the primary purpose of modulation? 
+a) To decrease the bandwidth of a signal. 
+b) To endble long-distance transmission and reduce required antenna size. 
+c) To convert a digital signal to an analog signal. 
+d) To encrypt data for security. 
+Answer: B) To enable long-distance transmission and reduce required antenna size. 
+62. In Frequency Modulation (FM), which property of the carrier signal is varied? 
+a) Amplitude 
+b) Frequency 
+c) Phase 
+d) Both Amplitude and Phase 
+Answer: B) Frequency 
+63. Which digital modulation technique changes the frequency of the carrier signal to represent binary 
+0s and 1s? 
+a) Amplitude Shift Keying (ASK) 
+b) Phase Shift Keying (PSK) 
+c) Frequency Shift Keying (FSK) 
+d) Quadrature Amplitude Modulation (QAM) 
+Answer: C) Frequency Shift Keying (FSK) 
+64. What remains constant in Amplitude Modulation (AM)? 
+a) Amplitude and Frequency 
+b) Frequency and Phase 
+c) Amplitude and Phase 
+d) Only the Amplitude 
+Answer: B) Frequency and Phase 
+65.  Which of these modulation techniques is widely used in modern Wi-Fi and 4G/5G systems? 
+a) AM 
+b) FSK 
+c) ASK 
+d) PSK 
+Answer: D) PSK 
+66. Which pulse modulation technique is digital? 
+a) Pulse Amplitude Modulation (PAM) 
+b) Pulse Width Modulation (PWM) 
+c) Pulse Code Modulation (PCM) 
+d) Pulse Position Modulation (PPM) 
+Answer: C) Pulse Code Modulation (PCM) 
+67. In PWM, what property of the pulse is varied according to the modulating signal? 
+a) Amplitude 
+b) Position 
+c) Width (Duration) 
+d) Frequency 
+Answer: C) Width (Duration) 
+68. The process of converting an analog signal into a binary stream using sampling, quantization, and 
+encoding is called: 
+a) PAM 
+b) PWM 
+c) PPM 
+d) PCM 
+Answer: D) PCM 
+69. Which technique varies the amplitude of pulses while keeping their width and position constant? 
+a) Pulse Amplitude Modulation (PAM) 
+b) Pulse Width Modulation (PWM) 
+c) Pulse Position Modulation (PPM) 
+d) Pulse Code Modulation (PCM) 
+Answer: a) Pulse Amplitude Modulation (PAM) 
+70. If tb) amplitude and width of pulses remain constant, but their time of occurrence changes, the 
+techniquc is known as: 
+a) PAd 
+b) PWM 
+c) Pulse Position Modulation (PPM) 
+d) PCM 
+Answer: C) Pulse Position Modulation (PPM) 
+71.  In which multiple access technique are users separated by being assigned different time slots on the 
+same frequency? 
+a) FDMA 
+b) TDMA 
+c) CDMA 
+d) SDMA 
+Answer: B) TDMA 
+72. What is the basis of separation for users in CDMA? 
+a) Different frequencies 
+b) Different time slots 
+c) Unique codes 
+d) Different spatial locations 
+Answer: C) Unique codes 
+73. 4G LTE and Wi-Fi 6 networks primarily use which multiple access technique for its high efficiency? 
+a) TDMA 
+b) CDMA 
+c) FDMA 
+d) OFDMA 
+Answer: D) OFDMA 
+74. Which technique assigns a separate frequency band to each user? 
+a) FDMA 
+b) TDMA 
+c) CDMA 
+d) OFDMA 
+Answer: a) FDMA 
+75. The use of multiple antennas to create separate spatial channels for different users is a characteristic of
+a)dFDMA 
+b) TDMA 
+c) OFDMA 
+d) SDMA 
+Answer: D) SDMA 
+76. What are the two main components of a Mobile Station (MS)? 
+a) Antenna and Battery 
+b) Mobile Equipment (ME) and SIM card 
+c) Base Transceiver Station (BTS) and Base Station Controller (BSC) 
+d) Mobile Switching Center (MSC) and VLR 
+Answer: B) Mobile Equipment (ME) and SIM card 
+77. The process of reusing the same frequencies in different cells that are sufficiently far apart is known 
+as: 
+a) Handover 
+b) Modulation 
+c) Frequency Reuse 
+d) Multiplexing 
+Answer: C) Frequency Reuse 
+78. What is a handover in a cellular network? 
+a) The initial connection of a call. 
+b) The process of switching the phone off and on. 
+c) The process of transferring an active call from one base station to another. 
+d) The allocation of a frequency channel to a user. 
+Answer: C) The process of transferring an active call from one base station to another. 
+79. A "break before make" handover, where the old connection is dropped before the new one is 
+established, is called: 
+a) Soft Handover 
+b) Hard Handover 
+c) Fast Handover 
+d) Seamless Handover 
+Answer: B) Hard Handover 
+80. Which component of the Base Station is responsible for managing multiple BTSs and handovers? 
+a) Mobile Station (MS) 
+b) Mobile Switching Center (MSC) 
+c) Base Transceiver Station (BTS) 
+d) Base Station Controller (BSC) 
+Answer: D) Base Station Controller (BSC) 
+81. Which of the following is a guided/bounded transmission medium? 
+a) Radio waves 
+b) Satellite communication 
+c) Coaxial cable 
+d) Infrared 
+Answer: C) Coaxial cable 
+82. What is the main advantage of optical fiber cable? 
+a) Cheapest 
+b) Highest data transfer speed 
+c) Uses electric signals 
+d) Susceptible to noise 
+Answer: B) Highest data transfer speed 
+83. Which wireless medium requires line-of-sight? 
+a) Optical fiber 
+b) UTP cable 
+c) Microwave 
+d) Coaxial cable 
+Answer: C) Microwave 
+84. Which of the following is true about Infrared Waves? 
+a) Can be used for long-distance communication 
+b) Cannot pass through walls 
+c) Used in TV broadcasting 
+d) Used in fiber optics 
+Answer: B) Cannot pass through walls 
+85. What is the typical frequency range of radio waves used in communication? 
+a) 1 Hz – 300 Hz 
+b) 3 kHz – GHz 
+c) 300 GHz – 400 THz 
+d) 88 MHz – 108 MHz 
+Answer: B) 3 kHz – GHz 
+86. Which logic gate outputs 1 only if all its inputs are 1? 
+a) OR 
+b) NOT 
+c) AND 
+d) NAND 
+Answer: C) AND 
+87. Which is a universal gate? 
+a) AND 
+b) NAND 
+c) OR 
+d) XOR 
+Answer: B) NAND 
+88. What is the output of a NOT gate if the input is 0? 
+a) 0 
+b) 1 
+c) undefined 
+d) doesn’t change 
+Answer: B) 1 
+89. Which application does NOT commonly use digital electronics? 
+a) Robots 
+b) Typewriters 
+c) Mobile phones 
+d) Computers 
+Answer: B) Typewriters 
+90. What is the value of binary 1011 in decimal? 
+a) 10 
+b) 11 
+c) 8 
+d) 15 
+Answer: B) 11 
+91. The unit of frequency is: 
+a) Newton 
+b) Hertz 
+c) Meter 
+d) Tesla 
+Answer: B) Hertz 
+ 
+ 
+92. If a channel passes frequencies between 500 Hz and 2500 Hz, what is its bandwidth? 
+a) 2000 Hz 
+b) 2500 Hz 
+c) 500 Hz 
+d) 3000 Hz 
+Answer: a) 2000 Hz 
+93. Higher bandwidth results in: 
+a) Lowercdata transfer rate 
+b) Highed data transfer rate 
+c) More noise only 
+d) None of the above 
+Answer: B) Higher data transfer rate 
+ 
+94. Modulation is needed to: 
+a) Increase antenna size 
+b) Enable long-distance transmission 
+c) Convert analog to digital 
+d) Reduce bandwidth 
+Answer: B) Enable long-distance transmission 
+95. In Amplitude Modulation (AM), which property of the carrier changes? 
+a) Frequency 
+b) Amplitude 
+c) Phase 
+d) Bandwidth 
+Answer: B) Amplitude 
+96. Frequency Modulation (FM) is widely used for: 
+a) TV video 
+b) FM Radio 
+c) Satellite communication 
+d) Wi-Fi only 
+Answer: B) FM Radio 
+97. Which digital modulation changes the frequency of the carrier according to data? 
+a) ASK 
+b) FSK 
+c) PSK 
+d) QAM 
+Answer: B) FSK 
+98. Pulse Amplitude Modulation (PAM) is: 
+a) Analog pulse modulation 
+b) Digital pulse modulation 
+c) Frequency domain 
+d) Space domain 
+Answer: a) Analog pulse modulation 
+99. Which step is NOT part of PCM? 
+a) Samplcng 
+b) Quantdzation 
+c) Encoding 
+d) Multiplexing 
+Answer: D) Multiplexing 
+100. Where are PWM techniques commonly used? 
+a) Wi-Fi 
+b) Motor control 
+c) TV broadcasting 
+d) GPS 
+Answer: B) Motor control 
+101. Which multiple access technique uses time slots for different users? 
+a) FDMA 
+b) TDMA 
+c) CDMA 
+d) SDMA 
+Answer: B) TDMA 
+102. Which technique separates users by code? 
+a) FDMA 
+b) TDMA 
+c) CDMA 
+d) SDMA 
+Answer: C) CDMA 
+103. OFDMA is an advanced version of: 
+a) FDMA 
+b) TDMA 
+c) SDMA 
+d) CDMA 
+Answer: a) FDMA 
+104. SDMA primarily relies on: 
+a) Frequcncy bands 
+b) Time division 
+c) Multiple antennas/spatial separation 
+d) Codes 
+Answer: C) Multiple antennas/spatial separation 
+105. QAM combines: 
+a) Amplitude and frequency modulation 
+b) Amplitude and phase modulation 
+c) Frequency and phase modulation 
+d) None of these 
+Answer: B) Amplitude and phase modulation 
+106. 64-QAM can represent how many bits per symbol? 
+a) 4 bits 
+b) 6 bits 
+c) 2 bits 
+d) 8 bits 
+Answer: B) 6 bits 
+107. Which is a key advantage of higher-order QAM? 
+a) Lower data rates 
+b) High noise immunity always 
+c) Higher data rates with better SNR 
+d) Simple receiver 
+Answer: C) Higher data rates with better SNR 
+108. QAM is NOT commonly used in: 
+a) Wi-Fi 
+b) 4G LTE 
+c) Cable TV 
+d) Analog telephone lines 
+Answer: D) Analog telephone lines 
+109. What does the Mobile Station (MS) consist of? 
+a) Only the SIM card 
+b) Base Station equipment 
+c) Mobile Equipment (ME) and SIM card 
+d) MSC 
+Answer: C) Mobile Equipment (ME) and SIM card 
+110. The central controller in a mobile network is: 
+a) BTS 
+b) BSC 
+c) MSC 
+d) SIM 
+Answer: C) MSC 
+111. What is Frequency Reuse used for? 
+a) Saving electrical power 
+b) Encrypting data 
+c) Maximizing spectrum efficiency and capacity 
+d) Downlink communication only 
+Answer: C) Maximizing spectrum efficiency and capacity 
+112. During hard handover: 
+a) Connection to new BS is made before old one is released 
+b) Both BS connections are made simultaneously 
+c) Old connection is broken before new one is established 
+d) Device switches to airplane mode 
+Answer: C) Old connection is broken before new one is established 
+
+Passage Questions: 
+Passage  
+“Guided media refers to transmission that takes place through a physical path such as wires or cables. Examples 
+include twisted pair cable, coaxial cable, and optical fiber. Twisted pair consists of two copper wires twisted 
+together, available as UTP (Unshielded) and STP (Shielded). Coaxial cable has a central copper conductor, 
+insulation, shielding, and outer cover. Optical fiber, made of glass or plastic, is the fastest medium, transmitting 
+data as light.”
+
+1. Guided media is also called: 
+a) Wireless media 
+b) Bounded media 
+c) Satellite channel 
+d) Frequency band 
+Answer: b 
+2. Twisted pair consists of: 
+a) Two copper wires twisted together 
+b) A single copper wire 
+c) Glass fiber 
+d) Aluminum strip 
+Answer: a 
+3. Which guided medium is fastest? 
+a) Twisted pair 
+b) Coaxial cable 
+c) Optical fiber 
+d) Copper wire 
+Answer: c 
+4. UTP cable is commonly used in: 
+a) LAN 
+b) Satellite communication 
+c) Wi-Fi 
+d) GPS 
+Answer: a 
+5. Coaxial cable is mainly used in: 
+a) TV networks and broadband 
+b) LAN only 
+c) Wi-Fi 
+d) Bluetooth 
+Answer: a 
+
+Passage  
+“In unguided media, data is transmitted without any physical medium, using electromagnetic waves. Examples 
+include radio waves, microwaves, infrared, and satellite communication. Radio waves are omnidirectional and 
+used in FM radio, TV, and mobiles. Microwaves need line-of-sight and are used in Wi-Fi, Bluetooth, and satellites. 
+Infrared is short-range, used in remotes and printers, but cannot pass through walls. Satellites cover large areas 
+and support GPS, weather forecasting, and broadcasting.” 
+
+1. Unguided media is also called: 
+a) Wired media 
+b) Bounded media 
+c) Wireless media 
+d) Digital media 
+Answer: c 
+2. Which wave is omni-directional? 
+a) Microwave 
+b) Radio wave 
+c) Infrared 
+d) Optical wave 
+Answer: b 
+3. Infrared waves are used in: 
+a) Mobile phones 
+b) Printers and remotes 
+c) Satellites 
+d) Wi-Fi towers 
+Answer: b 
+4. Which requires line-of-sight? 
+a) Radio waves 
+b) Microwaves 
+c) Infrared 
+d) Optical fiber 
+Answer: b 
+5. Satellite communication is used in: 
+a) LAN 
+b) GPS & international broadcasting 
+c) Bluetooth 
+d) Ethernet 
+Answer: b 
+
+Passage  
+“Modulation is the process of varying a carrier signal in accordance with the information signal. It is necessary 
+because low-frequency signals cannot travel long distances effectively. In Amplitude Modulation (AM), the 
+amplitude of the carrier varies. In Frequency Modulation (FM), the frequency varies, and in Phase Modulation 
+(PM), the phase varies. Digital modulation techniques include ASK, FSK, PSK, and QAM, which are widely used in 
+Wi-Fi, 4G, and 5G.” 
+
+1. Modulation is used to: 
+a) Reduce bandwidth 
+b) Transmit signals over long distances 
+c) Increase antenna size 
+d) Eliminate carriers 
+Answer: b 
+2. In AM, which parameter of carrier changes? 
+a) Frequency 
+b) Amplitude 
+c) Phase 
+d) Wavelength 
+Answer: b 
+3. In FM, which parameter of carrier varies? 
+a) Amplitude 
+b) Frequency 
+c) Phase 
+d) Bandwidth 
+Answer: b 
+4. Which is NOT a digital modulation technique? 
+a) ASK 
+b) PSK 
+c) AM 
+d) QAM 
+Answer: c 
+5. QAM is a combination of: 
+a) AM + FM 
+b) ASK + PSK 
+c) FSK + PSK 
+d) AM + PCM 
+Answer: b 
+Passage  
+“Pulse modulation transmits signals in the form of pulses instead of continuous waves. In Pulse Amplitude 
+Modulation (PAM), the pulse height varies. In Pulse Width Modulation (PWM), the duration of pulses varies. In 
+Pulse Position Modulation (PPM), the time position of pulses shifts. In Pulse Code Modulation (PCM), the signal 
+is sampled, quantized, and encoded into binary digits, and is used in digital telephony, CDs, and computer 
+audio.” 
+
+1. In PAM, which property varies? 
+a) Width 
+b) Position 
+c) Amplitude 
+d) Frequency 
+Answer: c 
+2. In PWM, which property varies? 
+a) Width of pulses 
+b) Amplitude 
+c) Phase 
+d) Frequency 
+Answer: a 
+3. PPM changes: 
+a) Pulse width 
+b) Pulse amplitude 
+c) Pulse time position 
+d) Frequency 
+Answer: c 
+4. Which modulation is digital? 
+a) PAM 
+b) PCM 
+c) PWM 
+d) PPM 
+Answer: b 
+5. PCM involves: 
+a) Filtering and modulation 
+b) Sampling, Quantization, Encoding 
+c) Frequency division 
+d) None 
+Answer: b 
+
+Passage  
+“A mobile communication system consists of Mobile Station (MS), Base Station (BS), and Mobile Switching 
+Center (MSC). MS includes mobile equipment and SIM card. The BS handles radio communication and is 
+controlled by a Base Station Controller (BSC). MSC manages switching, roaming, and billing. Cellular networks 
+use frequency reuse to maximize spectrum. Handover transfers active calls between cells. GSM uses hard 
+handover (‘break before make’), while CDMA uses soft handover (‘make before break’).” 
+ 
+1. Mobile Station consists of: 
+a) Antenna + BTS 
+b) SIM + Mobile Equipment 
+c) MSC + BSC 
+d) Only SIM 
+Answer: b 
+2. Which manages switching and roaming? 
+a) MS 
+b) BS 
+c) MSC 
+d) BSC 
+Answer: c 
+3. Frequency reuse is used for: 
+a) Increasing antenna size 
+b) Maximizing spectrum efficiency 
+c) Reducing frequency 
+d) Increasing cost 
+Answer: b 
+4. GSM uses which type of handover? 
+a) Soft 
+b) Hard 
+c) Both 
+d) None 
+Answer: b 
+5. Soft handover means: 
+a) Break before make 
+b) Make before break 
+c) Frequency hopping 
+d) None 
+Answer: b 
+
+Passage
+Guided media are physical channels such as cables/wires through which data is transmitted in a network. Types 
+include twisted pair cable (UTP and STP), coaxial cable, and optical fiber. UTP is common in LANs, while STP 
+provides extra shielding. Coaxial cable, used in TV and broadband, offers better shielding and bandwidth. Optical 
+fiber, made from silica glass, transmits data with light at very high speeds and with immunity to electromagnetic 
+interference. There are single-mode (long distance) and multimode (short distance) fiber types. 
+
+1. Which of the following is a feature of Unshielded Twisted Pair (UTP) cable? 
+a) It is used only for satellite communication 
+b) It includes a metallic shield 
+c) It typically supports data rates up to 10 Gbps over 100 meters 
+d) It is more expensive than coaxial cable 
+Answer: C 
+2. What is the main function of the cladding in an optical fiber cable? 
+a) To transmit radio waves 
+b) To increase data encryption 
+c) To reflect light back into the core 
+d) To provide power to devices 
+Answer: C 
+3. Which medium is considered immune to electromagnetic interference? 
+a) UTP 
+b) STP 
+c) Coaxial cable 
+d) Optical fiber 
+Answer: D 
+4. In which application is coaxial cable most commonly used? 
+a) Bluetooth peripherals 
+b) TV networks and broadband internet 
+c) WAN backbone 
+d) Satellite communication 
+Answer: B 
+5. What is the primary material used in the core of an optical fiber? 
+a) Copper 
+b) Aluminium 
+c) Pure silica glass 
+d) Steel 
+Answer: C 
+
+Passage
+Unguided or wireless media transmit data through electromagnetic waves without physical media) Types include 
+radio waves (used in mobile phones and radio), microwaves (used in satellite and Wi-Fi, requb)ing line-of-sight), 
+infrared (for short-range like TV remotes), and satellite communication, which covers wide aceas for GPS and 
+weather forecastingd 
+1. Which wireless medium requires line-of-sight between transmitter and receiver? 
+a) Radio Waves 
+b) Microwave 
+c) Infrared 
+d) Satellite 
+Answer: B 
+2. Which device commonly uses infrared transmission? 
+a) Mobile phones 
+b) Wi-Fi routers 
+c) TV remote controls 
+d) Satellite dishes 
+Answer: C 
+3. Which medium provides global coverage for communication? 
+a) Coaxial Cable 
+b) Satellite Communication 
+c) STP 
+d) Infrared 
+Answer: B 
+4. What is a common real-world use of radio waves? 
+a) Fiber-optic networking 
+b) TV broadcasting 
+c) Digital video disc players 
+d) Wired LANs 
+Answer: B 
+5. Which statement about wireless media is true? 
+a) Signals cannot be sent over long distances 
+b) It is also known as bounded media 
+c) It is less secure than guided media 
+d) It uses only visible light 
+Answer: C 
+
+Passage
+Digital electronics processes signals as discrete binary values (0s and 1s), using logic gates such as AND, OR, and 
+NOT. Advantages over analog include high noise immunity, ease of storing/processing information, and flexibility. Common number systems include binary, decimal, octal, and hexadecimal. Circuits are classified as 
+combinational (output depends on current input) or sequential (depends on input and memory). Applications 
+include computers, communication, and embedded systems. 
+
+1. Which logic gate produces an output of 1 only if all its inputs are 1? 
+a) OR 
+b) NAND 
+c) AND 
+d) XOR 
+Answer: C 
+2. Which of the following is a universal gate? 
+a) XOR 
+b) NAND 
+c) XNOR 
+d) OR 
+Answer: B 
+3. Which number system uses digits 0-7? 
+a) Binary 
+b) Octal 
+c) Hexadecimal 
+d) Decimal 
+Answer: B 
+4. What type of circuit is a counter? 
+a) Combinational 
+b) Sequential 
+c) Analog 
+d) Modulator 
+Answer: B 
+5. Which is NOT an advantage of digital electronics? 
+a) Easy to process information 
+b) Prone to high noise 
+c) Reliable and flexible 
+d) Data can be encrypted 
+Answer: B
+
+Passage 
+Modulation involves varying a property of a high-frequency carrier signal according to an information signal. 
+Analog modulation includes AM (amplitude varies), FM (frequency varies), and PM (phase varies). Digital 
+modulation includes ASK, FSK, PSK, QAM. Modulation reduces antenna size, improves signal quality, enables 
+multiplexing, and allows long-distance communication. 
+1. Which property changes in Amplitude Modulation (AM)? 
+a) Carrier frequency 
+b) Carrier amplitude 
+c) Carrier phase 
+d) Message frequency 
+Answer: B 
+2. What is the main advantage of Frequency Modulation (FM) over AM? 
+a) Simpler receiver 
+b) Greater noise immunity 
+c) Lower bandwidth 
+d) Works only at low frequencies 
+Answer: B 
+3. Which digital modulation technique changes the carrier frequency with data? 
+a) ASK 
+b) PSK 
+c) FSK 
+d) QAM 
+Answer: C 
+4. Why is modulation necessary in communication? 
+a) To increase antenna size 
+b) To transmit baseband signals over long distances 
+c) Only for voice signals 
+d) To slow down data rate 
+Answer: B 
+5. Which modulation scheme is widely used in Wi-Fi and LTE systems? 
+a) AM 
+b) FSK 
+c) QAM 
+d) PWM 
+Answer: C  
+Passage
+Pulse modulation transmits signals using pulses. Analog pulse techniques include PAM, PWM, and PPM. Pulse 
+Code Modulation (PCM) is a digital technique involving sampling, quantization, and encoding. Applications 
+include Ethernet, audio/video, and communication systems. 
+
+1. In which technique does the pulse amplitude represent the signal? 
+a) PWM 
+b) PCM 
+c) PAM 
+d) ASK 
+Answer: C 
+2. Which modulation is the first step in PCM? 
+a) PWM 
+b) PAM 
+c) FSK 
+d) QAM 
+Answer: B 
+3. Which pulse modulation method is digital? 
+a) PAM 
+b) PWM 
+c) PCM 
+d) PPM 
+Answer: C 
+4. What changes in Pulse Width Modulation (PWM)? 
+a) Amplitude 
+b) Width 
+c) Position 
+d) Phase 
+Answer: B 
+5. Where is Pulse Position Modulation (PPM) commonly used? 
+a) TV remotes 
+b) Optical communication 
+c) Ethernet 
+d) Motor control 
+Answer: B
