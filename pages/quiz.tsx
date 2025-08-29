@@ -79,7 +79,7 @@ export default function QuizPage() {
 
     return (
       <div className="min-h-screen flex items-center justify-center p-6">
-        <div className="max-w-2xl w-full bg-white rounded-2xl shadow-lg p-8 text-center space-y-6">
+        <div className="max-w-3xl w-full bg-white rounded-2xl shadow-lg p-8 text-center space-y-6">
           <h2 className="text-2xl font-bold">Quiz Complete</h2>
 
           {/* Summary */}
@@ -89,13 +89,34 @@ export default function QuizPage() {
             <p className="text-red-600">Incorrect: {incorrect.length}</p>
           </div>
 
-          {/* Incorrect question numbers */}
+          {/* Incorrect questions with details */}
           {incorrect.length > 0 && (
-            <div className="bg-red-50 border border-red-200 rounded-lg p-4 text-left">
-              <h3 className="font-semibold mb-2 text-red-700">Incorrect Questions:</h3>
-              <p className="text-sm text-gray-700">
-                {incorrect.join(', ')}
-              </p>
+            <div className="bg-red-50 border border-red-200 rounded-lg p-4 text-left space-y-4">
+              <h3 className="font-semibold text-red-700">Incorrect Questions:</h3>
+
+              {incorrect.map((qNo) => {
+                const q = flat[qNo - 1] // index correction
+                return (
+                  <div key={qNo} className="bg-white rounded-lg p-3 shadow-sm border border-gray-200">
+                    <p className="font-medium text-gray-800">
+                      Q{qNo}. {q.question}
+                    </p>
+                    {q.passage && (
+                      <p className="text-sm text-gray-600 mt-1">
+                        <span className="font-semibold">Passage:</span> {q.passage}
+                      </p>
+                    )}
+                    <p className="text-sm text-gray-700 mt-1">
+                      <span className="font-semibold">Your Answer:</span>{" "}
+                      {answers[qNo - 1] != null ? q.options[answers[qNo - 1]!] : "Not attempted"}
+                    </p>
+                    <p className="text-sm text-green-700">
+                      <span className="font-semibold">Correct Answer:</span>{" "}
+                      {q.options[q.answer]}
+                    </p>
+                  </div>
+                )
+              })}
             </div>
           )}
 
