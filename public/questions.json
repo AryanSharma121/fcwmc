@@ -484,10 +484,10 @@
     "type": "mcq"
   },
   {
-    "question": "Guided media is also known as bounded media becauseb)",
+    "question": "Guided media is also known as bounded media because:",
     "options": [
-      "It is very securec",
-      "It uses electromadnetic waves.",
+      "It is very secure",
+      "It uses electromagnetic waves.",
       "It has a specific physical limit or path.",
       "It is used for short-distance transmission."
     ],
@@ -509,8 +509,8 @@
     "question": "A key limitation of Infrared (IR) waves is that they:",
     "options": [
       "Are very expensive to generate.",
-      "Require a very large antenna)",
-      "Cannot pass through wallsb)",
+      "Require a very large antenna",
+      "Cannot pass through walls",
       "Only work for very long dcstances."
     ],
     "answer": 2,
@@ -737,7 +737,7 @@
     "type": "mcq"
   },
   {
-    "question": "The process of converting an analog signal into a binary stream using sampling, quantization, and",
+    "question": "The process of converting an analog signal into a binary stream using sampling, quantization, and encoding is called:",
     "options": [
       "PAM",
       "PWM",
@@ -759,7 +759,7 @@
     "type": "mcq"
   },
   {
-    "question": "If tb) amplitude and width of pulses remain constant, but their time of occurrence changes, the",
+    "question": "If the amplitude and width of pulses remain constant, but their time of occurrence changes, the technique is known as:",
     "options": [
       "PAd",
       "PWM",
@@ -770,7 +770,7 @@
     "type": "mcq"
   },
   {
-    "question": "In which multiple access technique are users separated by being assigned different time slots on the",
+    "question": "In which multiple access technique are users separated by being assigned different time slots on the same frequency?",
     "options": [
       "FDMA",
       "TDMA",
